@@ -38,5 +38,5 @@ def get_admins() -> list[int]:
     return admins
 
 
-# УДАЛИШЬ ИЛИ ИЗМЕНИШЬ ССЫЛКИ НА ДОНАТ, КАНАЛ И ТЕМУ БОТА - КАСТРИРУЮ БЛЯТЬ <3
+
 BOT_DESCRIPTION = f"Сактыбаев Рустам 1191б".strip()
